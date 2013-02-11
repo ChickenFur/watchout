@@ -1,0 +1,24 @@
+.testing{
+  width: 50;
+  height: 50;
+  background-color: blue;
+}
+.player {
+  fill: red;
+}
+.scoreBox {
+  float: right;
+  padding: 10px;
+  border: solid 1px black;
+  border-radius: 10px;
+}
+
+.topScore{
+  display: inline-block;
+}
+.currentScore{
+  display: inline-block;
+}
+.dead {
+  background-color: green;
+}
